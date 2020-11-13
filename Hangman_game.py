@@ -7,6 +7,7 @@ file = open(file_name, "r")
 data = file.read( ).split(',')
 print(data)
 
+
 # import the funtion random
 import random
 
